@@ -1,0 +1,7 @@
+main.c:83:5:main	1
+main.c:132:6:SystemClock_Config	3
+main.c:172:6:TIMER_NOW	24
+main.c:298:6:OLED_TIMER	3
+main.c:310:6:KB_Test	11
+main.c:344:6:oled_Reset	1
+main.c:355:6:Error_Handler	1
